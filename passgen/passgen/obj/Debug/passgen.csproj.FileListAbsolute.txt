@@ -1,0 +1,10 @@
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\bin\Debug\passgen.exe.config
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\bin\Debug\passgen.exe
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\bin\Debug\passgen.pdb
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\passgen.csproj.AssemblyReference.cache
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\passgen.Properties.Resources.resources
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\passgen.csproj.GenerateResource.cache
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\passgen.csproj.CoreCompileInputs.cache
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\passgen.exe
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\passgen.pdb
+C:\Users\essam\Documents\Dlls and stuff\passgen\passgen\obj\Debug\PasswordGenerator.PasswordGeneratorForm.resources
